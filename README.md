@@ -47,9 +47,9 @@ When you push into the `master` branch, this workflow will be triggered and publ
 You have to register your "REGISTRY_ACCESS_TOKEN" in the Github Action Secrets which you can get from:
 - https://docs.comfy.org/registry/publishing#create-an-api-key-for-publishing
 
-After generating the repository from this template, uncomment the branches to enable the workflow with auto trigger:
+After generating the repository from this template, uncomment the push to enable the workflow with auto trigger:
 
-https://github.com/jhj0517/ComfyUI-CustomNodes-Template/blob/24941ae8995217490f2f37aceaf5ccf9ae632995/.github/workflows/publish-comfyui-registry.yml#L6-L8
+https://github.com/jhj0517/ComfyUI-CustomNodes-Template/blob/6ae10a1d161933c5e3cff432e1c8bbc9396be954/.github/workflows/publish-comfyui-registry.yml#L4-L10
 
 ## How to Strat Using Template
 
