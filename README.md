@@ -51,12 +51,22 @@ After generating the repository from this template, uncomment the push to enable
 
 https://github.com/jhj0517/ComfyUI-CustomNodes-Template/blob/6ae10a1d161933c5e3cff432e1c8bbc9396be954/.github/workflows/publish-comfyui-registry.yml#L4-L10
 
+## Github Issue & PR templates
+
+There are some basic templates for the Github issues & PR. You can edit them or add more to fit your project's needs.
+
+- Issue Templates:
+  1. [bug_report.md](https://github.com/jhj0517/ComfyUI-CustomNodes-Template/blob/master/.github/ISSUE_TEMPLATE/bug_report.md) : Basic bug report template
+  2. [feature_request.md](https://github.com/jhj0517/ComfyUI-CustomNodes-Template/blob/master/.github/ISSUE_TEMPLATE/feature_request.md) : Feature request template
+
+- PR Template: [pull_request_template.md](https://github.com/jhj0517/ComfyUI-CustomNodes-Template/blob/master/.github/pull_request_template.md)
+
+
 ## How to Strat Using Template
 
 Click "Use this template" -> "Create a new repository", then you can create your own custom node from there.
 
 ![image](https://github.com/user-attachments/assets/fab4da53-0458-4e88-adc1-5bb5d341a511)
-
 
 The custom node installation guide below can usually be used for any custom node, you can use it in your README by modifying the repository name and URL.
 ## Installation
